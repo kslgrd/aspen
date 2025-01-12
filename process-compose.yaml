@@ -1,0 +1,18 @@
+version: "0.5"
+
+processes:
+  dgraph:
+    command: docker run --name dgraph -d -p "8080:8080" -p "9080:9080" -v data:/dgraph dgraph/standalone:latest
+    is_daemon: true
+    working_dir: "dgraph"
+    shutdown:
+      command: |
+        docker stop dgraph
+        docker rm dgraph
+  ratel:
+    command: docker run --name ratel -d -p "8000:8000" dgraph/ratel:latest
+    is_daemon: true
+    shutdown:
+      command: | 
+        docker stop ratel
+        docker rm ratel
