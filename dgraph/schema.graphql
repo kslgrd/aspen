@@ -1,0 +1,6 @@
+type Task {
+  id: ID!
+  content: String!
+  createdAt: String!
+  updatedAt: String
+}
