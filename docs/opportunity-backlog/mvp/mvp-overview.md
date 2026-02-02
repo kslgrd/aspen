@@ -97,20 +97,6 @@ No advanced query language is required for MVP.
 
 ---
 
-## Linking (core differentiator)
-
-- Users can explicitly link any two items
-- Links are:
-  - first-class entities
-  - versioned
-  - append-only
-- Re-linking the same two items publishes a new revision
-- Links live in a **private overlay space** (implicitly created, invisible to the user)
-
-Backlinks are computed locally and surfaced contextually.
-
----
-
 ## What the MVP deliberately avoids
 
 The MVP **does not include**:
