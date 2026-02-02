@@ -1,6 +1,6 @@
 # Vision
 
-Aspen is a local-first platform for building applications that respect user agency, privacy, and ownership of data.
+Aspen provides a local-first platform for building applications that respect user agency, privacy, and ownership of data.
 
 It exists to make it practical to build software where:
 
