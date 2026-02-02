@@ -7,8 +7,8 @@ CRDT surface or how "current revision" is selected.
 
 **Evidence**
 
-- Sync model states CRDT-based convergence and deterministic replay as core properties. (docs/architecture/sync-model.md)
-- Data model describes records and revisions, and implies a "current revision pointer" concept. (docs/architecture/data-model.md)
+- Sync model states CRDT-based convergence and deterministic replay as core properties. (See [`sync-model.md`](../../../architecture/sync-model.md).)
+- Data model describes records and revisions, and implies a "current revision pointer" concept. (See [`data-model.md`](../../../architecture/data-model.md).)
 - Earlier review feedback highlighted this as an ambiguity that will affect implementation, testing, and UX.
 
 ---
@@ -65,6 +65,6 @@ CRDT surface or how "current revision" is selected.
 
 ## Links
 
-- [mvp-overview.md](../mvp-overview.md)
-- [sync-model.md](../../../architecture/sync-model.md)
-- [data-model.md](../../../architecture/data-model.md)
+- [`mvp-overview.md`](../mvp-overview.md)
+- [`sync-model.md`](../../../architecture/sync-model.md)
+- [`data-model.md`](../../../architecture/data-model.md)

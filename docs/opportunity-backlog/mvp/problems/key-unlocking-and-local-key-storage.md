@@ -73,6 +73,6 @@ and unlock behavior can easily become either insecure by default or too annoying
 
 ## Links
 
-- [mvp-overview.md](../mvp-overview.md)
-- [key-management.md](../../../architecture/key-management.md)
-- [security-model.md](../../../architecture/security-model.md)
+- [`mvp-overview.md`](../mvp-overview.md)
+- [`key-management.md`](../../../architecture/key-management.md)
+- [`security-model.md`](../../../architecture/security-model.md)

@@ -4,6 +4,9 @@ This document describes the **minimum viable product** for Aspen. The goal is to
 
 Per [ADR 0011](../../design-decisions/0011-technical-foundations.md) we'll start by establishing the core platform, as well as an extremely basic macOS app.
 
+Implementation spec:
+- [`README.md`](spec/README.md)
+
 ---
 
 ## MVP Goal

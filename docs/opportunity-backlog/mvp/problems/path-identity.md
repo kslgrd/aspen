@@ -71,5 +71,5 @@ renames, and devices.
 
 ## Links
 
-- [mvp-overview.md](../mvp-overview.md)
-- [ADR-0007](../../../design-decisions/0007-external-sources-have-stable-identities-and-revisions.md)
+- [`mvp-overview.md`](../mvp-overview.md)
+- [`0007-external-sources-have-stable-identities-and-revisions.md`](../../../design-decisions/0007-external-sources-have-stable-identities-and-revisions.md)

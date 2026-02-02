@@ -7,8 +7,8 @@ older clients or future lenses if we don’t define a versioning strategy early.
 
 **Evidence**
 
-- Aspen’s architecture assumes multiple apps are lenses over shared data. (docs/architecture/overview.md, docs/design-decisions/0010-applications-are-lenses-not-owners.md)
-- The data model defines records and revisions but avoids storage encodings and schema evolution mechanics. (docs/architecture/data-model.md)
+- Aspen’s architecture assumes multiple apps are lenses over shared data. (See [`overview.md`](../../../architecture/overview.md) and [`0010-applications-are-lenses-not-owners.md`](../../../design-decisions/0010-applications-are-lenses-not-owners.md).)
+- The data model defines records and revisions but avoids storage encodings and schema evolution mechanics. (See [`data-model.md`](../../../architecture/data-model.md).)
 - Earlier feedback identified schema/versioning as a missing piece even for MVP, because it prevents re-platforming later.
 
 ---
@@ -64,7 +64,7 @@ older clients or future lenses if we don’t define a versioning strategy early.
 
 ## Links
 
-- [mvp-overview.md](../mvp-overview.md)
-- [data-model.md](../../../architecture/data-model.md)
-- [overview.md](../../../architecture/overview.md)
-- [ADR-0010](../../../design-decisions/0010-applications-are-lenses-not-owners.md)
+- [`mvp-overview.md`](../mvp-overview.md)
+- [`data-model.md`](../../../architecture/data-model.md)
+- [`overview.md`](../../../architecture/overview.md)
+- [`0010-applications-are-lenses-not-owners.md`](../../../design-decisions/0010-applications-are-lenses-not-owners.md)

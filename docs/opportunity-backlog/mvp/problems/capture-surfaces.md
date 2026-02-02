@@ -70,4 +70,4 @@ When I’m capturing something in different contexts, I want the experience to f
 
 ## Links
 
-- [mvp-overview.md](../mvp-overview.md)
+- [`mvp-overview.md`](../mvp-overview.md)
