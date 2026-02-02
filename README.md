@@ -26,7 +26,7 @@ Aspen exists to solve **context loss**. It gives you a place to link, explore, a
 Aspen is not a new “home” for all your work.
 
 - Keep using Notion, Obsidian, your editor, Google Docs, files on disk, bookmarks—whatever already works for you.
-- Share whatever you're working on with Aspen and to link everything together.
+- Share whatever you're working on with Aspen to link everything together.
 - Use incredibly powerful search features to find anything you share.
 
 You might use Aspen to:
